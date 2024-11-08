@@ -1,2 +1,4 @@
+Faker
 selenium
 webdriver-manager
+chromedriver-binary
